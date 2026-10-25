@@ -1,0 +1,8 @@
+assay_id,assay_name,department,specimen_type,unit
+1,Glucose,Chemistry,Plasma,mg/dL
+2,Potassium,Chemistry,Plasma,mmol/L
+3,Hemoglobin,Hematology,Whole blood,g/dL
+4,WBC,Hematology,Whole blood,10^9/L
+5,CRP,Chemistry,Serum,mg/L
+6,Albumin,Chemistry,Serum,g/dL
+7,Lactate,Chemistry,Plasma,mmol/L
